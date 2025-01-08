@@ -51,7 +51,32 @@ class ProxyConfig:
     def __init__(self):
         # List of channels or URLs to fetch proxy configurations from
         self.SOURCE_URLS = [
-            ChannelConfig("https://t.me/s/v2ray_free_conf"),
+
+https://t.me/s/DeamNet_proxy
+
+https://t.me/s/key_outline
+
+https://t.me/s/Vip_fragment_v2ray
+
+https://t.me/s/IP_CF_Config
+
+https://t.me/s/IP_CF_Configs
+
+https://t.me/s/v2raynplus
+
+https://links.freebustraveler.uk/T3zczd#IranCpiFrag1
+
+https://links.freebustraveler.uk/8jtTGe#Irancpifrag2
+
+https://links.freebustraveler.uk/xXciM3#irancpiFrag3
+
+https://links.freebustraveler.uk/zhwZN5#IrancpiFrag4
+
+https://t.me/fnet00
+
+https://sub.xornot.ir/sub/cHJvU1NILUNoYW5uZWwsMTczMjcxMTA1OQXf-F7K_aNv
+
+https://t.me/s/c/1796213998/108538 ChannelConfig("https://t.me/s/v2ray_free_conf"),
             ChannelConfig("https://t.me/s/PrivateVPNs"),
             ChannelConfig("https://raw.githubusercontent.com/4n0nymou3/wg-config-fetcher/refs/heads/main/configs/wireguard_configs.txt"),
             ChannelConfig("https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt")
